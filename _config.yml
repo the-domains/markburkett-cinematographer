@@ -1,6 +1,6 @@
 name: MarkBurkett Cinematographer
 favicon: null
-layout_spectrum: 0.9552398859523237
+layout_spectrum: 0.88309
 typography_spectrum: 0.7195627531036735
 title: Cinematographer
 cta:
@@ -17,7 +17,7 @@ opengraph:
   appId: null
 color:
   brandColors: []
-  brandStrength: 0.49600570322945714
+  brandStrength: 0.5
   lightness: 0.8411659204866737
   saturation: 0.1349841991905123
   rhythmicContrast: 0.5253317300230265
