@@ -1,15 +1,15 @@
 ---
-id: 44e439b8-961a-4c5c-93a3-f3542f1fcf88
-dateModified: '2016-08-24T00:18:08.072Z'
-title: Contact Details
-datePublished: '2016-08-24T00:18:09.086Z'
-author: []
-hasPage: true
-description: Get in touch via Email - markburkett@me.com
-publisher: {}
-via: {}
-starred: false
+datePublished: '2016-08-24T00:21:07.696Z'
 sourcePath: _posts/2016-08-24-contact-details.md
+hasPage: true
+author: []
+via: {}
+dateModified: '2016-08-24T00:21:06.439Z'
+title: Contact Details
+id: 44e439b8-961a-4c5c-93a3-f3542f1fcf88
+publisher: {}
+description: Get in touch via Email - markburkett@me.com
+starred: false
 url: contact-details/index.html
 _type: Blurb
 
