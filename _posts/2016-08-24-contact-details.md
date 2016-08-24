@@ -1,17 +1,16 @@
 ---
 description: Get in touch via Email - markburkett@me.com
-dateModified: '2016-08-24T00:13:25.459Z'
-datePublished: '2016-08-24T00:13:56.046Z'
+dateModified: '2016-08-24T00:15:12.654Z'
+datePublished: '2016-08-24T00:15:13.603Z'
 title: Contact Details
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-24-contact-details.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: contact-details/index.html
+_type: Blurb
 
 ---
 # Contact Details
