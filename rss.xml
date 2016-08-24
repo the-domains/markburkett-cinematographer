@@ -4,7 +4,7 @@
         <description><![CDATA[Cinematographer]]></description>
         <link>https://thegrid.ai/markburkett-cinematographer/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Aug 2016 00:03:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2016 00:03:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/markburkett-cinematographer/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -42,13 +42,6 @@
             <pubDate>Tue, 23 Aug 2016 23:56:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Cheap Fakes - "Just In Case" (2015)]]></title>
-            <description><![CDATA[<article><h1>Cheap Fakes - "Just In Case" (2015)</h1><p>Directed By Brad Addison Edited By Brad Addison, Mark Burkett and Hayden Andrews Director Of Photography Mark Burkett</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/894487c6220ef126d0e926b46652bf7c/noop.jpg?input=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F554619162_1280x720.jpg"></article>]]></description>
-            <link>https://vimeo.com/154141138</link>
-            <guid isPermaLink="false">f18075bd-a507-453f-9c28-792752754d96</guid>
-            <pubDate>Fri, 19 Aug 2016 11:24:48 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Mouldy Lovers - Yonder Ruckus]]></title>
             <description><![CDATA[<article><h1>The Mouldy Lovers - Yonder Ruckus</h1><p>Music Video</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/30a67b5e1c230b818850bff9d5218085/noop.jpg?input=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F539210699_1280x720.jpg"></article>]]></description>
             <link>https://vimeo.com/68837899</link>
@@ -61,6 +54,13 @@
             <link>https://vimeo.com/122399298</link>
             <guid isPermaLink="false">644745a4-e2e6-4e3f-b560-bffb35a69976</guid>
             <pubDate>Wed, 24 Aug 2016 00:02:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cheap Fakes - "Just In Case" (2015)]]></title>
+            <description><![CDATA[<article><h1>Cheap Fakes - "Just In Case" (2015)</h1><p>Music Video</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/894487c6220ef126d0e926b46652bf7c/noop.jpg?input=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F554619162_1280x720.jpg"></article>]]></description>
+            <link>https://vimeo.com/154141138</link>
+            <guid isPermaLink="false">f18075bd-a507-453f-9c28-792752754d96</guid>
+            <pubDate>Wed, 24 Aug 2016 00:03:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
