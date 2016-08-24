@@ -19,7 +19,10 @@ analytics:
   google: null
   facebook: null
   twitter: null
-name: Mark Burkett Cinematographer
+author:
+  name: Mark Burkett
+  email: markburkett@me.com
+name: Mark Burkett
 cta:
   domain: null
   bucket: null
