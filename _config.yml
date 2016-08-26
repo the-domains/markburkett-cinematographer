@@ -1,36 +1,48 @@
-typography_spectrum: 0.2469587076921016
+title: Cinematographer
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.9442025315947831
+  brandStrength: 0.5512625880073756
+  rhythmicContrast: 0.007425902644172311
   brandColors:
     - '#000000'
     - '#404040'
     - '#808080'
     - '#BFBFBF'
     - '#FFFFFF'
-  brandStrength: 0.5512625880073756
-  lightness: 0.38719118386507034
-  saturation: 0.9442025315947831
-  rhythmicContrast: 0.007425902644172311
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.06412953441031277
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-author:
-  name: Mark Burkett
-  email: markburkett@me.com
-name: Mark Burkett
+  lightness: 0.3871911838650703
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 navigation:
   - name: Contact Details
     id: 44e439b8-961a-4c5c-93a3-f3542f1fcf88
     type: content
 favicon: null
-title: Cinematographer
-purpose: []
+author:
+  name: Mark Burkett
+  email: markburkett@me.com
+name: Mark Burkett
+opengraph:
+  image: null
+  type: null
+  appId: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+typography_spectrum: 0
+layout_spectrum: 1
